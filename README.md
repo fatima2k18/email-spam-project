@@ -1,2 +1,2 @@
 # email-spam-project
-spam detection
+In this project email spam or non-spam can be recognized
